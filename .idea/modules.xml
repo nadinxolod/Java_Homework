@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Iscl_v_progr/Iscl_v_progr.iml" filepath="$PROJECT_DIR$/Iscl_v_progr/Iscl_v_progr.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaHomework.iml" filepath="$PROJECT_DIR$/JavaHomework.iml" />
     </modules>
   </component>
